@@ -1,0 +1,15 @@
+{
+  "page": 1,
+  "results": [
+    {
+      "id": 123,
+      "title": "Movie Title",
+      "release_date": "2023-09-30",
+      "poster_path": "/path_to_image.jpg",
+      "overview": "Some movie overview",
+      "genre_ids": [28, 12],
+      "runtime": 120
+    },
+    // more movies...
+  ]
+}
